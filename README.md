@@ -8,5 +8,4 @@ This project showcases my web design and front-end development skills using HTML
 You can view the live version here:  
 👉 [https://yourusername.github.io/Portfolio](https://yourusername.github.io/Portfolio)
 
-## 📁 Project Structure
 
